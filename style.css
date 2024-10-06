@@ -1,0 +1,15 @@
+h1{
+    color: gold;
+    font-family: verdana;
+  font-size: 200%;
+}
+
+p{
+    color: darkseagreen;
+    font-family: verdana;
+    font-size: 100%;
+}
+li{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
